@@ -35,3 +35,13 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+567567
+jh
+j
+kl
+ll
+l
+
+
+l
+l
